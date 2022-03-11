@@ -4,9 +4,10 @@
 
 - 👋🏻 My name is Evelyn
 - 👩🏻‍💻 I'm a Web Developer
-- 😺 Pronouns: She/Her
+- 😺 Pronouns : She/Her
+- 📧 Email : evetan.wy@gmail.com
 - 🔭 I’m currently working on a personal project - Wordle with my own twist
-- 🧁 Fun fact: Share the same birthday as Albert Einstein
+- 🥧 Fun fact : Share the same birthday as Albert Einstein π
 - 🤎 Love cats 😻, croissant 🥐, and code 💻
 
 <!--
