@@ -6,6 +6,7 @@
 - 👩🏻‍💻 I'm a Data Analyst
 - 😺 Pronouns : She/Her
 - 📧 Email : evetan.wy@gmail.com
+- 🔗 Website : https://evelyntanwy.github.io/
 - 🔭 I’m enjoy figuring out how data and technology can make everyday work a little easier
 - 🥧 Fun fact : Share the same birthday as Albert Einstein π
 - 🤎 Love cats 😻, croissant 🥐, and charts 📊
